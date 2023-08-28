@@ -1,0 +1,2 @@
+# xmakeConfigDemo
+xmake configfiles issue
